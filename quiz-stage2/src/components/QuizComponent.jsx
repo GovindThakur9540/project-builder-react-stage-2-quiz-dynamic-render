@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import data from '../Resources/ques.json'
-import { Link } from 'react-router-dom'
+
 
 export default class QuizComponent extends Component{
   constructor(){
@@ -20,6 +20,12 @@ export default class QuizComponent extends Component{
       this.setState({indexValue:this.state.indexValue-1})
     }
   }
+
+  quit = (e) =>{
+    e.preventDefault();
+    alert("Wait for Result");
+  }
+
     render(){
         return(
             <div className="main-container">
@@ -38,7 +44,7 @@ export default class QuizComponent extends Component{
                     <div className="buttons">
                         <button onClick={this.previousQues}>Previous</button>
                         <button onClick={this.nextQues}>Next</button>
-                        <button><Link to="/ResultComponent" className="link">Quit</Link></button>
+                        <button onClick={this.quit}>Quit</button>
                     </div>
                 </div>
             </div>
