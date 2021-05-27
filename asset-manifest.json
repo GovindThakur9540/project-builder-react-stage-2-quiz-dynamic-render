@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-builder-react-stage-2-quiz-dynamic-render/static/css/main.b48dd87c.chunk.css",
+    "main.js": "/project-builder-react-stage-2-quiz-dynamic-render/static/js/main.7754fb78.chunk.js",
+    "main.js.map": "/project-builder-react-stage-2-quiz-dynamic-render/static/js/main.7754fb78.chunk.js.map",
+    "runtime-main.js": "/project-builder-react-stage-2-quiz-dynamic-render/static/js/runtime-main.27aa3f10.js",
+    "runtime-main.js.map": "/project-builder-react-stage-2-quiz-dynamic-render/static/js/runtime-main.27aa3f10.js.map",
+    "static/js/2.0e650461.chunk.js": "/project-builder-react-stage-2-quiz-dynamic-render/static/js/2.0e650461.chunk.js",
+    "static/js/2.0e650461.chunk.js.map": "/project-builder-react-stage-2-quiz-dynamic-render/static/js/2.0e650461.chunk.js.map",
+    "static/js/3.2ecdbd4a.chunk.js": "/project-builder-react-stage-2-quiz-dynamic-render/static/js/3.2ecdbd4a.chunk.js",
+    "static/js/3.2ecdbd4a.chunk.js.map": "/project-builder-react-stage-2-quiz-dynamic-render/static/js/3.2ecdbd4a.chunk.js.map",
+    "index.html": "/project-builder-react-stage-2-quiz-dynamic-render/index.html",
+    "static/css/main.b48dd87c.chunk.css.map": "/project-builder-react-stage-2-quiz-dynamic-render/static/css/main.b48dd87c.chunk.css.map",
+    "static/js/2.0e650461.chunk.js.LICENSE.txt": "/project-builder-react-stage-2-quiz-dynamic-render/static/js/2.0e650461.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27aa3f10.js",
+    "static/js/2.0e650461.chunk.js",
+    "static/css/main.b48dd87c.chunk.css",
+    "static/js/main.7754fb78.chunk.js"
+  ]
+}
